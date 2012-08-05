@@ -1,0 +1,24 @@
+#gbz, #gbx1, #gbx3, #gbqld, #gbq1, #gbu { display:none !important; }
+#gbq { top:0 !important;  }
+#gbq, #gbq2 { padding:0 !important; margin:0 !important; background:none !important; }
+
+#gb { height:30px !important; }
+
+#gbqf { padding:4px 19px; }
+
+.nH .nn > .nH > .mq { display:none !important; }
+
+/* hide mail & compose buttons */
+.oo > .nM > .aic, .aki.pp { display:none !important; }
+
+/* remove ads */
+.Bu { display:none; }
+.Bu:first-child { display:block; }
+.Bu .hx { padding-right:0; }
+.nH .PS { display:none; }
+.mq { display:none}
+.nH .UJ { border-top:0px solid #000000;}
+
+.aiv {max-width:600px; width:80%;}
+.aq .am {max-width:100%; width:92%;}
+.ah .am {max-width:100%; width:92%;}
