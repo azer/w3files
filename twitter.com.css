@@ -6,8 +6,8 @@
   padding-top: 10px;
 }
 
-#timeline {
-  width: 100%;
+#timeline, .profile-card {
+  width: 100% !important;
 }
 
 .home-tweet-box {
