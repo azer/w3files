@@ -1,0 +1,19 @@
+.global-nav, .dashboard, .header-inner {
+  display:none;  
+}
+
+.wrapper {
+  padding-top: 10px;
+}
+
+#timeline {
+  width: 100%;
+}
+
+.home-tweet-box {
+  margin-bottom: 20px;
+}
+
+.rich-editor {
+  width: 794px !important;
+}

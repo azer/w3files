@@ -1,0 +1,11 @@
+#rightCol {
+  display: none;
+}
+
+#contentArea {
+  width: 750px;
+}
+
+.fbChatSidebar {
+  display: none !important;
+}

@@ -1,0 +1,30 @@
+.friends #SubNav, #global-nav, .searchified-options, #dynamic_message, #mod-explore, #foot, .home .search .icon, .home .tt-controls, .home .tt-closed-wrapper {
+  display: none;
+}
+
+div.tt-col2 {
+  display: none;
+}
+
+body {
+  padding: 0 !important;
+}
+
+.home #Main {
+  width: 642px !important;
+}
+
+.search input {
+  width: 642px;
+  border: 1px solid #ccc;
+  padding: 10px 5px;
+  margin-bottom: 20px;
+}
+
+.tt-divider {
+  background: none !important;
+}
+
+#y-photostream {
+  background: none;
+}
